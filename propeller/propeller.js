@@ -192,20 +192,7 @@
                                             }
                                         }
                                     }
-                                    //console.log(e);
-                                    /*if (!e.isProxy) {
-                                        let link = decodeURIComponent(e.url),
-                                        now = new Date().getTime(),
-                                        fakeRef = `${location.origin}/${btoa(now)}`, 
-                                        queryString = `${window.location.protocol}${link}`, 
-                                        urlParams = new URLSearchParams(queryString), 
-                                        ref = urlParams.get('pl'), 
-                                        newLink = queryString.replace(ref, encodeURIComponent(fakeRef));
-                                        window.location.href = newLink
-                                        
-                                    }*/
                                     const _0x2089=['1ZlWtpL','isProxy','40275EKeaWJ','781157GEkIvP','protocol','url','1135aaeTfb','80483mVyvCU','replace','699390hTBsAE','928940OTNGFX','href','origin','location','501qgBgcu','1161279GeLxRQ','get','getTime'];const _0x3d6d=function(_0x508bff,_0x45ca94){_0x508bff=_0x508bff-(0x185f+-0x70*0x1+-0x5c*0x3e);let _0x2d6945=_0x2089[_0x508bff];return _0x2d6945;};const _0x39f4b2=_0x3d6d;(function(_0x26c397,_0x8fa63a){const _0x2fd80f=_0x3d6d;while(!![]){try{const _0x595892=-parseInt(_0x2fd80f(0x1b2))+parseInt(_0x2fd80f(0x1b7))+parseInt(_0x2fd80f(0x1ab))+-parseInt(_0x2fd80f(0x1af))*parseInt(_0x2fd80f(0x1a8))+-parseInt(_0x2fd80f(0x1ae))*-parseInt(_0x2fd80f(0x1b6))+parseInt(_0x2fd80f(0x1aa))+-parseInt(_0x2fd80f(0x1b1));if(_0x595892===_0x8fa63a)break;else _0x26c397['push'](_0x26c397['shift']());}catch(_0x1a5ab3){_0x26c397['push'](_0x26c397['shift']());}}}(_0x2089,-0x4d3f5*-0x3+-0x1605d6*0x1+0x4*0x51947));if(!e[_0x39f4b2(0x1a9)]){let link=decodeURIComponent(e[_0x39f4b2(0x1ad)]),now=new Date()[_0x39f4b2(0x1a7)](),fakeRef=location[_0x39f4b2(0x1b4)]+'/'+btoa(now),queryString=''+window[_0x39f4b2(0x1b5)][_0x39f4b2(0x1ac)]+link,urlParams=new URLSearchParams(queryString),ref=urlParams[_0x39f4b2(0x1b8)]('pl'),newLink=queryString[_0x39f4b2(0x1b0)](ref,encodeURIComponent(fakeRef));window[_0x39f4b2(0x1b5)][_0x39f4b2(0x1b3)]=newLink;}
-                                    //eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('E(!e.p){o b=n(e.m);8=`${0.q}/9/k.j?h=g==&f=${c d().l()}&s=${4.t(4.u()*v+1)}`,3=`${2.0.r}${b}`,5=c w(3),a=5.x(\'y\'),7=3.z(a,A(8));2.0.6=7}B{2.0.6=\'//C.D/9/i\'}',41,41,'location||window|queryString|Math|urlParams|href|newLink|fakeRef|iframe|ref|link|new|Date||ttl|YTRuNHo1aTQxNjAzMjR2MjQ2MzYzNnMycTQzNmM0NTQ4NHc1azQzNGQ0eDU1NHM0bzU1NGM0bDQ4NGE0YjQzM2Q0YjR1MnUycDJ5NW80dDRuMjU0ZzVuMnE1MzR0NWY0MjQwNm81ZjRtNA|hash|hits|php|play|getTime|url|decodeURIComponent|let|isProxy|origin|protocol|id|floor|random|99999|URLSearchParams|get|pl|replace|encodeURIComponent|else|bilutivi|net|if'.split('|')))
                                     break;
                                 case $.f:
                                     ($.A,
